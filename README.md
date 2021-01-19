@@ -6,9 +6,7 @@ Authors: Mingyu Liu, Raven Xu, Alice Wang
 *MHeart -- Always here(**hear**) for you*
 
 ## Inspiration
-During the Covid-19 pandemic, I often feel depressed and detached from other people, the lack of social interaction had a 
-drastic change on my life. There are thoughts and issues that I would like to talk to others about, but I am afraid that 
-they would not like to listen, and sometimes I am just too shy to talk about them. This is how we came up with MHeart -- 
+Have you ever felt sad at night, don’t want to talk to anyone because you don’t have anyone to talk to? Have you had a moment where bad things just added up and at that every minute all things started to fall apart? Have you ever felt lonely, staring at the ceiling not knowing what to say or who to turn to? Maybe you just need to express your feelings to someone, maybe just a couple of words that will make you change your mindset. This is how we came up with MHeart -- 
 an website that you can talk to, which you can tell your problems to.
 
 ## What it does
@@ -17,8 +15,8 @@ to let out. The website provides an AI that will kindly greet the user and ask t
 how his day has been. With different responses from the user, AI will react differently.
 
 ## How we built it
-We have built the website from scratch to display the chatting screen. We used FaceBook’s Wit.ai to process natural language 
-and train our AI.
+We have built the website using Javascript, HTML, CSS from scratch to display the chatting screen. We used FaceBook’s Wit.ai to process natural language 
+and train our AI. We have also established a facebook messenger page called MHeart for users to easily access our service. https://www.facebook.com/MHeart-103310935084889
 
 ## Our Next Steps
 The next step for MHeart is to implement a matching system that would match users into private conversations. The website
