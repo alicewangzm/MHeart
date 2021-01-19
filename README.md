@@ -1,7 +1,7 @@
 # MHeart
 
 MHeart is a website developed during Hack the North in 2021.  
-Authors: Mingyu Liu, Raven Xu, Zimeng Wang
+Authors: Mingyu Liu, Raven Xu, Alice Wang
 
 *MHeart -- Always here(**hear**) for you*
 
